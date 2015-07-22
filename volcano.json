@@ -1,0 +1,209 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    174.77,
+                    -36.985
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Activity": "No volcanic unrest.",
+                "Hazards": "Volcanic environment hazards.",
+                "Level": 0,
+                "VolcanoID": "aucklandvolcanicfield",
+                "Title": "Auckland Volcanic Field"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -177.914,
+                    -29.254
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Activity": "No volcanic unrest.",
+                "Hazards": "Volcanic environment hazards.",
+                "Level": 0,
+                "VolcanoID": "kermadecislands",
+                "Title": "Kermadec Islands"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    176.251,
+                    -37.286
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Activity": "No volcanic unrest.",
+                "Hazards": "Volcanic environment hazards.",
+                "Level": 0,
+                "VolcanoID": "mayorisland",
+                "Title": "Mayor Island"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    175.632,
+                    -39.281
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Activity": "No volcanic unrest.",
+                "Hazards": "Volcanic environment hazards.",
+                "Level": 0,
+                "VolcanoID": "ngauruhoe",
+                "Title": "Ngauruhoe"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    173.63,
+                    -35.395
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Activity": "No volcanic unrest.",
+                "Hazards": "Volcanic environment hazards.",
+                "Level": 0,
+                "VolcanoID": "northland",
+                "Title": "Northland"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    176.501,
+                    -38.119
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Activity": "No volcanic unrest.",
+                "Hazards": "Volcanic environment hazards.",
+                "Level": 0,
+                "VolcanoID": "okataina",
+                "Title": "Okataina"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    176.281,
+                    -38.093
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Activity": "No volcanic unrest.",
+                "Hazards": "Volcanic environment hazards.",
+                "Level": 0,
+                "VolcanoID": "rotorua",
+                "Title": "Rotorua"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    175.563,
+                    -39.281
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Activity": "Minor volcanic unrest.",
+                "Hazards": "Volcanic unrest hazards.",
+                "Level": 1,
+                "VolcanoID": "ruapehu",
+                "Title": "Ruapehu"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    174.061,
+                    -39.298
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Activity": "No volcanic unrest.",
+                "Hazards": "Volcanic environment hazards.",
+                "Level": 0,
+                "VolcanoID": "taranakiegmont",
+                "Title": "Taranaki/Egmont"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    175.896,
+                    -38.784
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Activity": "No volcanic unrest.",
+                "Hazards": "Volcanic environment hazards.",
+                "Level": 0,
+                "VolcanoID": "taupo",
+                "Title": "Taupo"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    175.5689901,
+                    -39.17961512
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Activity": "Minor volcanic unrest.",
+                "Hazards": "Volcanic unrest hazards.",
+                "Level": 1,
+                "VolcanoID": "tongariro",
+                "Title": "Tongariro"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    177.183,
+                    -37.521
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Activity": "Minor volcanic unrest.",
+                "Hazards": "Volcanic unrest hazards.",
+                "Level": 1,
+                "VolcanoID": "whiteisland",
+                "Title": "White Island"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
